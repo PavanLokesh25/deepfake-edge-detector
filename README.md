@@ -1,4 +1,4 @@
-# YOLOv8-Face + EfficientNet-B0 | Jetson Nano / Jetson Orin Compatible
+# YOLOv8-Face + EfficientNet-B0 |  Jetson Orin Compatible
 
 This repository contains an offline, real-time deepfake detection system designed to run efficiently on edge devices such as NVIDIA Jetson Nano and Jetson Orin. The system combines:
 
